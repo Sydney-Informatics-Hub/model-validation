@@ -4,9 +4,16 @@ This repository provides a template workflow and stating point for evaluating th
 
 ## Overview
 
-A set of notebooks, scripts, and tools to standardise evaluation of predictive models.
+Tools for validating model performance.
 
 This repository will endeavour to be general purpose and support any regression or classification task. However, it has been developed specifically focused on computer vision model deployments.
+
+### [deepchecks](https://docs.deepchecks.com/en/stable/user-guide/tabular/auto_quickstarts/plot_quickstart_in_5_minutes.html?utm_source=github.com&utm_medium=referral&utm_campaign=readme&utm_content=try_it_out)
+
+A Python utility for assesing data and model quality.
+
+
+
 
 ## Important Questions to Ask
 
